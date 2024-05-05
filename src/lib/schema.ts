@@ -9,6 +9,7 @@ export interface Database {
           id: number;
           created_at: Date;
           name: string;
+          avatarUrl: string | null;
         };
         Insert: {
           id?: number;
