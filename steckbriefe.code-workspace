@@ -5,6 +5,25 @@
     },
   ],
   "settings": {
-    "cSpell.words": ["supabase"],
+    "cSpell.words": [
+      "supabase"
+    ],
+    "files.exclude": {
+      "**/.git": true,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/CVS": true,
+      "**/.DS_Store": true,
+      "**/Thumbs.db": true,
+      "**/.*": true,
+      "**/.vscode": true,
+      "**/babel.config.js": true,
+      "**/README.md": true,
+      "**/shims*.d.ts": true,
+      "**/tsconfig*.json": true,
+      "**/vue.config.js": true,
+      "**/vite.config.ts": true,
+      "**/node_modules": true
+    },
   },
 }
