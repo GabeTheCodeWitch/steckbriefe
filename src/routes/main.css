@@ -23,6 +23,11 @@ a {
   color: var(--font);
   cursor: pointer;
   text-decoration: none;
+  transition: var(--animation);
+}
+
+a:hover {
+  color: var(--main);
 }
 
 h1 {
