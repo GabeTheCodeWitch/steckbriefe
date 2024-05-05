@@ -1,7 +1,7 @@
 <nav class="story-nav">
-  <a href="greekGods">Griechische Götter</a>
-  <a href="ninjas">Ninjas</a>
-  <a href="mutanten">Mutanten</a>
+  <a href="gabe/greekGods">Griechische Götter</a>
+  <a href="gabe/ninjas">Ninjas</a>
+  <a href="gabe/mutanten">Mutanten</a>
 </nav>
 
 <style>
