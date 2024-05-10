@@ -11,3 +11,9 @@
   <li>ist in zwei Nationen geteilt</li>
   <li>Mutanten schleusen andere Mutanten von nord nach sü´in Sicherheit</li>
 </ul>
+
+<MutantenCard />
+
+<script>
+  import MutantenCard from './MutantenCard.svelte';
+</script>
